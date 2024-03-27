@@ -1,0 +1,29 @@
+.firstView {
+    background-color: var(--clr-neutral-rose-white);
+    padding: 1px 35px;
+    border-radius: 12px;
+    line-height: 2rem;
+    margin-top: 66;
+}
+
+@media (min-width: 500px) {
+    body {
+        background-color: var(--clr-neutral-eggshell);        
+    }
+   .main {
+    width: 40rem;
+    border-radius: 2rem;
+    margin-block: 5rem;
+        
+   }
+
+   .wrapper {
+    width: 85%;
+   }
+    img {
+        border-radius: 1rem;
+        margin-top: 2rem;
+        width: 85%;
+    }
+    
+}

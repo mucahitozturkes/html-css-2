@@ -1,0 +1,120 @@
+
+
+.title {
+    font-family: "Young Serif";
+    font-weight: 400;
+    font-size: 2.1em;
+    
+    line-height: 2rem;
+}
+
+.text {
+    font-family: outfit;
+    font-weight: 400;
+    color: var(--clr-neutral-wenge-brown);
+   line-height: 1.5rem;
+    font-size: 0.98rem;
+    margin-top: -5px;
+    padding-bottom: 12px;
+   opacity: 0.9;
+}
+
+.titles {
+    font-family: "Young Serif";
+    font-weight: 400;
+    font-size: 1.8rem;
+    color: var(--clr-primary-nudmeg);
+    
+}
+
+.ingred {
+    line-height: 2rem;
+}
+
+.ingred ul li {
+opacity: 0.8;
+}
+
+.ingred ul {
+    margin-top: -12px;
+    padding-bottom: 8px;
+}
+
+.instru ol li {
+    padding-bottom: 16px;
+}
+.firstView h3 {
+    color: var(--clr-primary-dark-raspberry);
+    font-weight: 600;
+    font-family: outfit;
+}
+.instru {
+    margin-top: -10px;
+    line-height: 1.4rem;
+} 
+li {
+  padding-left: 1rem;
+  margin-left: -16px;
+    
+}
+
+h4 {
+    font-family: outfit;
+    font-weight: 400;
+    color: var(--clr-neutral-wenge-brown);
+    font-size: 1.03rem;
+    margin-top: -14px;
+}
+
+.main-spans {
+    margin-top: -30px;
+}
+
+.spans {
+    font-weight: 600;
+    font-family: outfit;
+    font-size: 1rem;
+  
+}
+.spans2 {
+    font-weight: 700;
+    font-family: outfit;
+    width: 30%;
+    color: var(--clr-primary-dark-raspberry);
+}
+
+li {
+    font-family: outfit;
+    font-weight: 400;
+    color: var(--clr-neutral-wenge-brown);
+    
+    
+}
+
+.row .nutritions {
+    font-family: outfit;
+    font-weight: 400;
+    color: var(--clr-neutral-wenge-brown);
+    opacity: 0.8;
+    font-size: 1.03rem;
+    text-align: left;
+
+}
+
+.nutritions-rows row {
+    margin-top: -18px;
+     
+}
+.row {
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--clr-neutral-light-grey);
+    margin: 0px;
+}
+
